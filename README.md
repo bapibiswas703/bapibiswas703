@@ -157,6 +157,13 @@ See the full implementation: [github.com/bapibiswas703/indian-amount-parser](#)
 
 ---
 
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### Certifications
 
 - JavaScript (Basic) — HackerRank

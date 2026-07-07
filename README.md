@@ -160,7 +160,7 @@ See the full implementation: [github.com/bapibiswas703/indian-amount-parser](#)
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/bapibiswas703/node-xray/pull/14) in [bapibiswas703/node-xray](https://github.com/bapibiswas703/node-xray)
+1. 🎉 Merged PR [#23](https://github.com/bapibiswas703/node-xray/pull/23) in [bapibiswas703/node-xray](https://github.com/bapibiswas703/node-xray)
 <!--END_SECTION:activity-->
 
 ---

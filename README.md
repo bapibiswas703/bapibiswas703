@@ -169,7 +169,7 @@ See the full implementation: [github.com/bapibiswas703/indian-amount-parser](#)
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.1.0](https://github.com/bapibiswas703/Indian-Amount-Parser/releases/tag/v1.1.0) in [bapibiswas703/Indian-Amount-Parser](https://github.com/bapibiswas703/Indian-Amount-Parser)
+1. 🚀 Published release [v1.0.0](https://github.com/bapibiswas703/node-xray/releases/tag/v1.0.0) in [bapibiswas703/node-xray](https://github.com/bapibiswas703/node-xray)
 <!--END_SECTION:activity-->
 
 ---

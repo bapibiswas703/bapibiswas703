@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=bapibiswas703&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/bapibiswas703/bapibiswas703/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/bapibiswas703/bapibiswas703/output/snake.svg" alt="Snake animation" width="100%" />
 
 ---
 
@@ -53,18 +53,21 @@
 ### Tech Stack
 
 #### Languages & Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### Frameworks
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 #### AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -72,12 +75,14 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 #### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 #### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -86,11 +91,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
 #### Messaging & Architecture
+
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
 
 #### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -100,14 +107,14 @@
 
 ### Featured Projects
 
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| AI SaaS Integration | LLM-powered features (content gen, data extraction) in a multi-tenant SaaS | NestJS · Claude API · OpenAI · LangChain · PostgreSQL | [Repo](#) · [Case study](#) |
-| n8n Automation Workflows | Business automation pipelines connecting 10+ services | n8n · REST · Supabase · Webhooks | [Repo](#) |
-| Multi-Tenant SaaS Platform | Microservices with GraphQL Federation; cut latency 40% | NestJS · GraphQL · Kafka · Redis · AWS | [Repo](#) |
-| Real-Time Chat System | 10K+ concurrent users via pub/sub engine | Socket.IO · Redis · Node.js | [Repo](#) |
-| E-Commerce Platform | Full-stack with payment gateway + logistics integration | Laravel · MySQL · AWS · Firebase | [Repo](#) |
-| Indian Amount Parser | Parse Indian-currency amounts across 20+ Indian languages | JavaScript (ESM, zero deps) | [Repo](#) |
+| Project                    | What it does                                                               | Tech                                                  | Links                       |
+| -------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------- |
+| AI SaaS Integration        | LLM-powered features (content gen, data extraction) in a multi-tenant SaaS | NestJS · Claude API · OpenAI · LangChain · PostgreSQL | [Repo](#) · [Case study](#) |
+| n8n Automation Workflows   | Business automation pipelines connecting 10+ services                      | n8n · REST · Supabase · Webhooks                      | [Repo](#)                   |
+| Multi-Tenant SaaS Platform | Microservices with GraphQL Federation; cut latency 40%                     | NestJS · GraphQL · Kafka · Redis · AWS                | [Repo](#)                   |
+| Real-Time Chat System      | 10K+ concurrent users via pub/sub engine                                   | Socket.IO · Redis · Node.js                           | [Repo](#)                   |
+| E-Commerce Platform        | Full-stack with payment gateway + logistics integration                    | Laravel · MySQL · AWS · Firebase                      | [Repo](#)                   |
+| Indian Amount Parser       | Parse Indian-currency amounts across 20+ Indian languages                  | JavaScript (ESM, zero deps)                           | [Repo](#)                   |
 
 > _Replace `#` placeholders with real URLs once the repos are public._
 
@@ -160,6 +167,7 @@ See the full implementation: [github.com/bapibiswas703/indian-amount-parser](#)
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. 🚀 Published release [v1.1.0](https://github.com/bapibiswas703/Indian-Amount-Parser/releases/tag/v1.1.0) in [bapibiswas703/Indian-Amount-Parser](https://github.com/bapibiswas703/Indian-Amount-Parser)
 <!--END_SECTION:activity-->
 

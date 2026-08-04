@@ -15,15 +15,15 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          repository_user: bapibiswas703
-          gif_out_path: assets/snake.gif
-          svg_out_path: assets/snake.svg
-          palette: github-dark
+          github_user_name: bapibiswas703
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake.gif?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: assets
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

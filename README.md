@@ -114,6 +114,7 @@
 | Multi-Tenant SaaS Platform | Microservices with GraphQL Federation; cut latency 40%                     | NestJS · GraphQL · Kafka · Redis · AWS                | [Repo](#)                   |
 | Real-Time Chat System      | 10K+ concurrent users via pub/sub engine                                   | Socket.IO · Redis · Node.js                           | [Repo](#)                   |
 | E-Commerce Platform        | Full-stack with payment gateway + logistics integration                    | Laravel · MySQL · AWS · Firebase                      | [Repo](#)                   |
+| node-xray                  | Live runtime inspector for Node.js backends — Express, Fastify, NestJS     | TypeScript · Node.js · WebSocket · AsyncLocalStorage  | [Repo](https://github.com/bapibiswas703/node-xray)                   |
 | Indian Amount Parser       | Parse Indian-currency amounts across 20+ Indian languages                  | JavaScript (ESM, zero deps)                           | [Repo](#)                   |
 
 > _Replace `#` placeholders with real URLs once the repos are public._
